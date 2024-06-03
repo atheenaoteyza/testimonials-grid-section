@@ -27,7 +27,7 @@ body {
   font-family: "Barlow Semi Condensed", sans-serif;
   background-color: var(--Lightgrayishblue);
   font-size: 0.8125rem;
-  min-height: 985px;
+  min-height: 100vh;
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
